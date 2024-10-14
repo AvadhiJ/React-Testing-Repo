@@ -6,3 +6,10 @@ it("When x & y is a number",()=>{
     //res= 9
     expect(res).toBe(9);
 });
+
+it("When x & y is a String",()=>{
+    const res = sum("4","5");
+
+    //res= 9
+    expect(res).toBe(9);
+});
