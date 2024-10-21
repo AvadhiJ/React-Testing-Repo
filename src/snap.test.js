@@ -15,10 +15,6 @@
 //   expect(tree).toMatchSnapshot();
 // });
 
-// Copyright (c) Meta Platforms, Inc. and affiliates.. All Rights Reserved.
-
-'use strict';
-
 import renderer from 'react-test-renderer';
 import Link from './snap';
 
