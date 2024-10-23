@@ -38,6 +38,7 @@
     ]
   },
   "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
     "react-test-renderer": "^18.3.1"
   }
 }
